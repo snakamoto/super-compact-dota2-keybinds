@@ -28,7 +28,7 @@
 	"setting.r_deferred_height_fog"		"0"
 	"setting.r_deferred_simple_light"		"1"
 	"setting.r_ssao"		"0"
-	"setting.cl_globallight_shadow_mode"		"2"
+	"setting.cl_globallight_shadow_mode"		"0"
 	"setting.r_screenspace_aa"		"0"
 	"setting.r_deferred_additive_pass"		"0"
 	"setting.dota_portrait_animate"		"1"
