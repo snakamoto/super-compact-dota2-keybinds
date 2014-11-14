@@ -1,3 +1,7 @@
+Dota 2 keyboard layout by 1gn1t0r
+Forked from https://github.com/loopuleasa/super-compact-dota2-keybinds
+----------------------------------
+
 This keyboard layout is what I currently use and I'm constantly tweaking it until I get an optimal layout.
 Each file has a role, and modify what you want in it.
 
